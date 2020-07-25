@@ -50,7 +50,7 @@ The new webpage is located in the [improved-webpage-better-accessibility folder]
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-1.png" 
 alt="screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', 'Types of bear', data table about bears, and first half of 'Habitats and Eating habits'. It also shows the 'Related' section showing a list of links to relevant articles.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-2.png" 
-alt="screenshot of nature site showing main header down to 'Habitats and Eating habits' section">
+alt="screenshot of nature site showing the 'Habitats and Eating habits section.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-3.png" 
 alt="screenshot of nature site showing the following sections: 'Mating rituals', audio player, 'About the author'. It also shows the hide comment button.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-4.png" 
