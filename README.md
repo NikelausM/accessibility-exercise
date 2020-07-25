@@ -58,7 +58,7 @@ alt="Screenshot of nature site after pressing the 'Show comments' button, showin
 
 ### New Webpage With Better Accessibility
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-1.PNG" 
-alt=Screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', and 'Types of bear'. It also shows the 'Related Articles' section showing a list of links to relevant articles.">
+alt="Screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', and 'Types of bear'. It also shows the 'Related Articles' section showing a list of links to relevant articles.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-2.PNG" 
 alt="Screenshot of nature site showing the data table, and the first half of the 'Habitats and Eating habits' section, incuding an image of a brown bear in a river.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-3.PNG" 
