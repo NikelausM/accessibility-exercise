@@ -48,27 +48,27 @@ The new webpage is located in the [improved-webpage-better-accessibility folder]
 
 ### Old Webpage With Poor Accessibility
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-1.png" 
-alt="screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', 'Types of bear', data table about bears, and first half of 'Habitats and Eating habits'. It also shows the 'Related' section showing a list of links to relevant articles.">
+alt="Screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', 'Types of bear', data table about bears, and first half of 'Habitats and Eating habits'. It also shows the 'Related' section showing a list of links to relevant articles.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-2.png" 
-alt="screenshot of nature site showing the 'Habitats and Eating habits section.">
+alt="Screenshot of nature site showing the 'Habitats and Eating habits section.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-3.png" 
-alt="screenshot of nature site showing the following sections: 'Mating rituals', audio player, 'About the author'. It also shows the hide comment button.">
+alt="Screenshot of nature site showing the following sections: 'Mating rituals', audio player, 'About the author'. It also shows the hide comment button.">
 <img src="./original-webpage-poor-accessibility/screenshots/old-webpage-4.png" 
-alt="screenshot of nature site after pressing the 'Show comments' button, showing that the button now says 'Hide comments'. Below the button is the expanded 'Add comment' form, and the section showing the comments made. The screenshot also shows the footer.">
+alt="Screenshot of nature site after pressing the 'Show comments' button, showing that the button now says 'Hide comments'. Below the button is the expanded 'Add comment' form, and the section showing the comments made. The screenshot also shows the footer.">
 
 ### New Webpage With Better Accessibility
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-1.PNG" 
-alt="screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', and 'Types of bear'. It also shows the 'Related Articles' section showing a list of links to relevant articles.">
+alt=Screenshot of nature site showing the main header level 1, navbar, and the sections: 'The trouble with Bears', and 'Types of bear'. It also shows the 'Related Articles' section showing a list of links to relevant articles.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-2.PNG" 
-alt="screenshot of nature site showing the data table, and the first half of the 'Habitats and Eating habits' section, incuding an image of a brown bear in a river.">
+alt="Screenshot of nature site showing the data table, and the first half of the 'Habitats and Eating habits' section, incuding an image of a brown bear in a river.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-3.PNG" 
-alt="screenshot of nature site showing the second half of the 'Habits and Eating habits' section including black and white image of a bear in a cage.">
+alt="Screenshot of nature site showing the second half of the 'Habitats and Eating habits' section including black and white image of a bear in a cage.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-4.PNG" 
-alt="screenshot of nature site showing the following sections: 'Mating rituals section', audio player, 'Show transcript' button, 'About the author', 'show comments' button, and the footer.">
+alt="Screenshot of nature site showing the following sections: 'Mating rituals section', audio player, 'Show transcript' button, 'About the author', 'show comments' button, and the footer.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-5.PNG" 
-alt="screenshot of nature site after the 'Show transcript button' was pressed, showing that the button now says 'Hide transcript', and below the button is the transcript of the audio file.">
+alt="Screenshot of nature site after the 'Show transcript button' was pressed, showing that the button now says 'Hide transcript', and below the button is the transcript of the audio file.">
 <img src="./improved-webpage-better-accessibility/screenshots/improved-webpage-6.PNG" 
-alt="screenshot of nature site after pressing the 'Show comments' button, showing that the button now says 'Hide comments'. Below the button is the expanded 'Add comment' form and the section showing the comments made. The screenshot also shows the footer">
+alt="Screenshot of nature site after pressing the 'Show comments' button, showing that the button now says 'Hide comments'. Below the button is the expanded 'Add comment' form and the section showing the comments made. The screenshot also shows the footer">
 
 <h2 id="technologies">Technologies</h2>
 
