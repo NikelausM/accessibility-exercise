@@ -23,8 +23,9 @@ The website was tested for accessibility using the [NVDA screenreader tool](http
 Check out my [LinkedIn](https://linkedin.com/in/nicolas-mora-a54245105/)
 
 <h2 id="features">Features</h2>
+
 The accessibility improvements include:
-- Improved color contrast.
+- Improved color contrast
   - I also added a better, more suitable color scheme.
 - More semantic html tags.
 - Skip to main content link.
@@ -40,13 +41,15 @@ The accessibility improvements include:
 
 
 <h2 id="launch">Launch</h2>
+
 The old webpage is located in the original-webpage-poor-accessibility folder. Open the index.html file to open it.
 
-The new webpage is located in the iimproved-webpage-better-accessibility folder. Open the index.html file to open it.
+The new webpage is located in the improved-webpage-better-accessibility folder. Open the index.html file to open it.
 
 <h2 id="screenshots">screenshots</h2>
 
 <h2 id="technologies">Technologies</h2>
+
 - HTML5
 - CSS3
 - Javascript
