@@ -42,7 +42,7 @@ The accessibility improvements include:
 
 The old webpage is located in the [original-webpage-poor-accessibility folder](./original-webpage-poor-accessibility). Open its [index.html file](./original-webpage-poor-accessibility/index.html) to open it.
 
-The new webpage is located in the [improved-webpage-better-accessibility folder](./improved-webpage-better-accessibility). [Visit the deployed webpage](https://nikelausm.github.io/accessibility-exercise/index.html)], or open its [index.html file](./improved-webpage-better-accessibility./index.html) to open it.
+The new webpage is located in the [improved-webpage-better-accessibility folder](./improved-webpage-better-accessibility). [Visit the deployed webpage](https://nikelausm.github.io/accessibility-exercise/index.html), or open its [index.html file](./improved-webpage-better-accessibility./index.html) to open it.
 
 <h2 id="screenshots">Screenshots</h2>
 
