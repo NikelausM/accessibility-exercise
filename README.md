@@ -28,7 +28,7 @@ The accessibility improvements include:
 - More semantic html tags.
 - Skip to main content link.
 - More accessible images with alt text and figure tags.
-- Text representation of text file to make <audio> player more accessible to screenreader users.
+- Text representation of text file to make audio player more accessible to screenreader users.
 - The <audio> player is now more accessible to users that are using older browsers that dont support HTML5 uadio.
 - The input element in the search form now has label only accessible to screenreaders.
 - The two <input> elements in the comment form have better labels.
