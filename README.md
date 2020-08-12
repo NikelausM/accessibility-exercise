@@ -1,3 +1,5 @@
+<p align="center"><img src="./accessibility_icon.gif" alt="Python For Data Science Bootcamp Logo." width=50%><p>
+
 <h1>
   Assessment: Accessibility Troubleshooting
 </h1>
